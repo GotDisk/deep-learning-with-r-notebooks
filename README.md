@@ -1,5 +1,7 @@
 # R Markdown Notebooks for "Deep Learning with R"
 
+## Forked from jjallaire deep-learning-with-r-notebooks on github
+
 This repository contains R Markdown notebooks implementing the code samples found in the book [Deep Learning with R (Manning Publications)](https://www.manning.com/books/deep-learning-with-r). Note that the original text of the book features far more content than you will find in these notebooks, in particular further explanations and figures. Here we have only included the code samples themselves and immediately related surrounding comments.
 
 ***
